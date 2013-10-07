@@ -27,6 +27,10 @@ header p {
 	color: #555;
 }
 
+code {
+	font-size: 1.4em;
+}
+
 code a:link, code a:visited, code a:focus {
 	color: #fff;
 }
