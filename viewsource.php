@@ -50,6 +50,11 @@ div.code code, div.rows code {
 
 }
 
+p code {
+	font-size: 1.4em;
+	font-family: 'Inconsolata', Arial, sans-serif;
+}
+
 EOD;
 
 //The page contents for this page uniquely
