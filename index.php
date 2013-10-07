@@ -1,10 +1,10 @@
 <?php
 
 //This stores template contents for the presentation-page of the website
+$pageID = "presentation";
 include('incl/config.php');
 
 $currentURL = getCurrentURL();
-$pageID = "presentation";
 $pageTitle = "Min presentations sida";
 $page_Meta_Desc = "Denna sida innehåller information om skaparen till hemsidan.";
 
