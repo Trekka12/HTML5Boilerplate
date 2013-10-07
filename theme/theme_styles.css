@@ -54,7 +54,7 @@ ul#links {
 
 ul#links li {
 	display: inline;
-	margin: 0 5em;
+	margin-right: 5em;
 	font-size: 1.8em;
 }
 
