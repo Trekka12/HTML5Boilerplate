@@ -44,9 +44,9 @@ div.container {
 	font-size: 1.4em;
 }
 
-div.rows code {
+div.code code {
 	font-size: 1.2em;
-	
+
 }
 
 EOD;
