@@ -21,7 +21,7 @@
         <link rel="stylesheet" href="theme/theme_styles.css">
 
         <style type="text/css">
-        <?php echo $style; ?>
+            <?php echo $style; ?>
         </style>
         
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>

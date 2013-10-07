@@ -120,6 +120,10 @@ nav#kmomSubNav {
 
 }
 
+nav#kmomSubNav p {
+	color: #fff;
+}
+
 nav#kmomSubNav a:link, nav#kmomSubNav a:visited, nav#kmomSubNav a:focus {
 
 }
