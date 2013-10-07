@@ -56,11 +56,6 @@ Dock har jag egen-fierat min sida aningen så den skiljer sig från mos på såd
 
 <b style="color: #fff;">Den främsta imponerande aspeketen jag uppmärksammade</b> med HTML5 Boilerplate var hur all webbdesign/webbutvecklings diversitet har blivit samlad på ett och samma ställe, tillgängligt för allmänheten att ta del av.<br>
 En av de svåra delarna av webbdesign är just hur stort området är och alla de olika delarna som spelar roll för hur en hemsida ser ut och beter sig, och det är inte lätt att sätta sig in i alla dessa aspekter - det tar tid, men när de är samlade och dokumenterade på det viset som HTML5 Boilerplate gör så kan man både uppdatera sina kunskaper och expertis såväl som att effektivt lägga den ständigt återkommande grunden för en hemsida på ett snabbt och enkelt sätt som man dels sparar värdefull tid på, men även kan vara säker på att det fungerar!
-
-
-
-
-
 </p>
 EOD;
 
