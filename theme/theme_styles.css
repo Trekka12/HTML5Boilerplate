@@ -49,10 +49,11 @@ nav#mainMenu {
 }
 
 ul#links {
-	text-align: left;
+	/*text-align: left;*/
 }
 
 ul#links li {
+	text-align: left;
 	display: inline;
 	margin-right: 5em;
 	font-size: 1.8em;
