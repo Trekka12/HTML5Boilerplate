@@ -11,18 +11,6 @@ $page_Meta_Desc = "Denna sida innehåller information om skaparen till hemsidan.
 //CSS Styles for this page uniquely
 $style = <<<EOD
 
-section#content h1 {
-	color: #fff;
-	text-shadow: 1px 1px 3px #000;
-}
-
-section#content p {
-	font-size: 14px;
-	color: #ccc;
-	line-height: 1.6em;
-	font-family:  'Open Sans', Arial, sans-serif;
-}
-
 EOD;
 
 //the page contents for this page uniquely
