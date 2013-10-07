@@ -44,6 +44,11 @@ div.container {
 	font-size: 1.4em;
 }
 
+div.rows code {
+	font-size: 1.2em;
+	
+}
+
 EOD;
 
 //The page contents for this page uniquely
