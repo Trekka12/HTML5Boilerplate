@@ -45,7 +45,7 @@ h1#logo {
 }
 
 nav#mainMenu {
-	border-bottom: 0.2em solid #ccc;
+	border-bottom: 0.3em solid #ccc;
 }
 
 ul#links {
@@ -58,6 +58,10 @@ ul#links li {
 	font-size: 1.8em;
 }
 
+ul#links li a {
+	text-decoration: none;
+}
+
 ul#links li a:link, ul#links li a:visited, ul#links li a:focus {
 	color: #fff;
 }
@@ -66,7 +70,7 @@ ul#links li a:hover, ul#links li a:active {
 	color: #FF9E36;
 }
 
-.visited {
+span#visited {
 	color: #FF9E36;
 }
 

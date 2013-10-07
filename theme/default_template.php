@@ -6,7 +6,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <title>PHPMVC @ BTH, av: Trekka 12 - <?php echo $pageTitle; ?></title> <!-- //Lägg till unik del av titeln baserad på respektive undersidor -->
+        <title>PHPMVC @ BTH av: Trekka 12 - <?php echo $pageTitle; ?></title> <!-- //Lägg till unik del av titeln baserad på respektive undersidor -->
         <meta name="description" content="<?php echo $page_Meta_Desc; ?>">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
@@ -30,7 +30,7 @@
         <!-- Add your site or application content here -->
         <div id="mainWrapper">
             <header id="top">
-                <h1 id="logo">PHPMVC @ BTH, <span class="detail creator">av: Trekka12 [Trekka12@cyberfox.se]</span></h1>
+                <h1 id="logo">PHPMVC @ BTH <span class="detail creator">av: Trekka12 [Trekka12@cyberfox.se]</span></h1>
 
                 <?php generateMenu($pageID); ?>
 
