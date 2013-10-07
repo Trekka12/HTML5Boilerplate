@@ -50,8 +50,8 @@ div.code code, div.rows code {
 
 }
 
-p code {
-	font-size: 1.4em;
+section#content p code {
+	font-size: 1.2em;
 	font-family: 'Inconsolata', Arial, sans-serif;
 }
 
