@@ -46,7 +46,7 @@ div.container {
 
 div.code code, div.rows code {
 	font-size: 1em;
-	font-family: 'Lucida Sans', monospace;
+	font-family: monospace;
 
 }
 
