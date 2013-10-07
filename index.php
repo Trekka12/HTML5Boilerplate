@@ -55,7 +55,7 @@ expertisområden.<br><br>
 Min stora förhoppning är att någon gång i framtiden när utbildningen är klar kunna vara del av eller
 driva ett eget företag inom webb, program och spel-utveckling såväl som ev. andra datortjänster som hör till.<br><br><br>
 
-//<span clas="detail">Trekka12 - BTH</span>
+//<span class="detail">Trekka12 - BTH</span>
 </p>
 EOD;
 
