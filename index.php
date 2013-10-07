@@ -11,7 +11,10 @@ $page_Meta_Desc = "Denna sida innehåller information om skaparen till hemsidan.
 //CSS Styles for this page uniquely
 $style = <<<EOD
 
-
+section#content h1 {
+	color: #fff;
+	text-shadow: 1px 1px 3px #000;
+}
 
 EOD;
 
