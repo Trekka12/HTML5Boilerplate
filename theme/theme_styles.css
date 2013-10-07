@@ -5,7 +5,7 @@
 
 /*
 	Backup link for the fonts above @ Google Web Fonts, see below:
-	http://www.google.com/fonts#UsePlace:use/Collection:Droid+Sans+Mono|Margarine|Inconsolata:400,700|Open+Sans:400italic,600italic,400,600|Roboto:400,400italic,500,500italic,700
+	http://www.google.com/fonts#ReviewPlace:refine/Collection:Droid+Sans+Mono|Margarine|Inconsolata:400,700|Open+Sans:400italic,600italic,700italic,800italic,400,600,700,800|Roboto:400,400italic,500,500italic,700|Roboto+Slab:400,700
 
 
 ==================================================
@@ -36,29 +36,38 @@ header#top {
 }
 
 h1#logo {
-	font-family: 'Margarine', cursive;
+	font-family: 'Roboto', cursive;
 	font-size: 2.8em;
 	color: #FF9E36;
+	letter-spacing: 0.1em;
+	font-weight: 500;
+	font-style: normal;
 }
 
 nav#mainMenu {
-
+	border-bottom: 0.2em solid #ccc;
 }
 
 ul#links {
-
+	text-align: center;
 }
 
 ul#links li {
-
+	display: inline;
+	margin: 0 3em;
+	font-size: 1.8em;
 }
 
 ul#links li a:link, ul#links li a:visited, ul#links li a:focus {
-	color: #;
+	color: #fff;
 }
 
 ul#links li a:hover, ul#links li a:active {
-	color: #;
+	color: #FF9E36;
+}
+
+.visited {
+	color: #FF9E36;
 }
 
 /*	
