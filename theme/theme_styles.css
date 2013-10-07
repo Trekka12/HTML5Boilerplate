@@ -32,7 +32,7 @@ div#mainWrapper {
 */
 
 header#top {
-	border-bottom: 0.3em solid #5FED9D;
+	border-bottom: 0.3em solid #fff;
 }
 
 h1#logo {
@@ -100,14 +100,15 @@ footer#bottom {
 
 footer#bottom p {
 	color: #888;
+	line-height: 1.6em;
 }
 
 footer a:link, footer a:visited, footer a:focus {
-
+	color: #fff;
 }
 
 footer a:hover, footer a:active {
-
+	color: #3DD447;
 }
 
 /*	
