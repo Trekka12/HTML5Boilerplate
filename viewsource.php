@@ -45,7 +45,7 @@ div.container {
 }
 
 div.code code {
-	font-size: 1.2em;
+	font-size: 1em;
 	font-family: monospace;
 
 }
