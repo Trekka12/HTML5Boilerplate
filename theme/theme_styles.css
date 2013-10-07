@@ -50,6 +50,8 @@ nav#mainMenu {
 
 ul#links {
 	/*text-align: left;*/
+	padding: 0;
+	margin: 0;
 }
 
 ul#links li {
