@@ -30,7 +30,7 @@
         <!-- Add your site or application content here -->
         <div id="mainWrapper">
             <header id="top">
-                <h1 id="logo">PHPMVC @ BTH <span class="detail creator">av: Trekka12 [Trekka12@cyberfox.se]</span></h1>
+                <h1 id="logo">PHPMVC @ BTH <!--<span class="detail creator">av: Trekka12 [Trekka12@cyberfox.se]</span>--></h1>
 
                 <?php generateMenu($pageID); ?>
 
