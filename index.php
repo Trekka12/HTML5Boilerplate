@@ -16,6 +16,13 @@ section#content h1 {
 	text-shadow: 1px 1px 3px #000;
 }
 
+section#content p {
+	font-size: 1.2em;
+	color: #fff;
+	line-height: 1.6em;
+	font-family:  'Open Sans', Arial, sans-serif;
+}
+
 EOD;
 
 //the page contents for this page uniquely
