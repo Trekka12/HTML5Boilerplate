@@ -46,7 +46,7 @@ div.container {
 
 div.code code {
 	font-size: 1.2em;
-	font-family: 'Roboto', monospace;
+	font-family: monospace;
 
 }
 
