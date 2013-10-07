@@ -29,6 +29,7 @@ header p {
 
 code {
 	font-size: 1.4em;
+	font-family: 'Inconsolata', Arial, sans-serif;
 }
 
 code a:link, code a:visited, code a:focus {
