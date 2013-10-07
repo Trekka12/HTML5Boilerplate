@@ -50,10 +50,10 @@ div.code code, div.rows code {
 
 }
 
-section#content p code {
+/*section#content p code {
 	font-size: 1.2em;
 	font-family: 'Inconsolata', Arial, sans-serif;
-}
+}*/
 
 EOD;
 
