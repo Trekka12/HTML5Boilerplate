@@ -32,7 +32,7 @@ div#mainWrapper {
 */
 
 header#top {
-	border-bottom: 0.3em solid #fff;
+	border-bottom: 0.3em solid #641;
 }
 
 h1#logo {
@@ -103,6 +103,8 @@ footer#bottom p {
 	line-height: 1.8em;
 	font-size: 1.2em;
 	font-family: Arial, sans-serif;
+	margin-bottom: 0;
+	padding-bottom: 0;
 }
 
 footer a {
@@ -124,11 +126,13 @@ footer a:hover, footer a:active {
 */
 
 nav#kmomSubNav {
-
+	margin: 0;
+	padding: 0;
 }
 
 nav#kmomSubNav p {
 	color: #fff;
+	margin-top: 0.4em;
 }
 
 nav#kmomSubNav a:link, nav#kmomSubNav a:visited, nav#kmomSubNav a:focus {
