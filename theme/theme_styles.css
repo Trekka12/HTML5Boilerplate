@@ -100,7 +100,13 @@ footer#bottom {
 
 footer#bottom p {
 	color: #888;
-	line-height: 1.6em;
+	line-height: 1.8em;
+	font-size: 1.2em;
+	font-family: 'Inconsolata', sans-serif;
+}
+
+footer a {
+	text-decoration: none;
 }
 
 footer a:link, footer a:visited, footer a:focus {
