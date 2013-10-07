@@ -43,7 +43,7 @@ function generateMenu($pageID)
 
                 <nav id="mainMenu">
                     <ul id="links">
-                        <li>{$menuAlt1}</li>
+                        <li style="margin-left: 0;">{$menuAlt1}</li>
                         <li>{$menuAlt2}</li>
                         <li>{$menuAlt3}</li>
                     </ul>
