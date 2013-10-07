@@ -9,11 +9,11 @@ function generateMenu($pageID)
 	if($pageID == "presentation")
 	{
 
-	   $menuAlt1 = "<span id=\"visited\">Presentation</span>";
+	   $menuAlt1 = "<span id=\"visited\" style="margin-left: 0;">Presentation</span>";
 
 	}else {
 
-	    $menuAlt1 = "<a href=\"index.php\">Presentation</a>";
+	    $menuAlt1 = "<a href=\"index.php\" style="margin-left: 0;">Presentation</a>";
 	}
 
 
