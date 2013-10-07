@@ -1,0 +1,126 @@
+/* Importera HTML5 Boilerplate standard CSS-Stilar, + Google Web Fonts för Copyright/detalj-text, rubriker och logotype */
+@import url("../css/normalize.css");
+@import url("../css/main.css");
+@import url(http://fonts.googleapis.com/css?family=Droid+Sans+Mono|Margarine|Inconsolata:400,700|Open+Sans:400italic,600italic,400,600|Roboto:400,400italic,500,500italic,700);
+
+/*
+	Backup link for the fonts above @ Google Web Fonts, see below:
+	http://www.google.com/fonts#UsePlace:use/Collection:Droid+Sans+Mono|Margarine|Inconsolata:400,700|Open+Sans:400italic,600italic,400,600|Roboto:400,400italic,500,500italic,700
+
+
+==================================================
+			General site styles
+==================================================
+*/
+
+body {
+	font-size: 10px;
+	background-image: url("img/patternBG.jpg");
+}
+
+div#mainWrapper {
+	margin: 0 auto;
+	padding: 1.2em 2.4em;
+	width: 96em;
+
+}
+
+/*	
+==================================================
+				Header styles
+==================================================
+*/
+
+header#top {
+
+}
+
+h1#logo {
+	font-family: 'Margarine', cursive;
+	font-size: 2.8em;
+	color: #FF9E36;
+}
+
+nav#mainMenu {
+
+}
+
+ul#links {
+
+}
+
+ul#links li {
+
+}
+
+ul#links li a:link, ul#links li a:visited, ul#links li a:focus {
+	color: #;
+}
+
+ul#links li a:hover, ul#links li a:active {
+	color: #;
+}
+
+/*	
+==================================================
+		General content container styles
+==================================================
+*/
+
+section#content {
+
+}
+
+/*	
+==================================================
+				Footer styles
+==================================================
+*/
+
+footer#bottom {
+
+}
+
+footer#bottom p {
+
+}
+
+footer a:link, footer a:visited, footer a:focus {
+
+}
+
+footer a:hover, footer a:active {
+
+}
+
+/*	
+==================================================
+				kmom Nav Styles
+==================================================
+*/
+
+nav#kmomSubNav {
+
+}
+
+nav#kmomSubNav a:link, nav#kmomSubNav a:visited, nav#kmomSubNav a:focus {
+
+}
+
+nav#kmomSubNav a:hover, nav#kmomSubNav a:active {
+
+}
+
+/*	
+==================================================
+			simpler style classes
+==================================================
+*/
+.detail {
+
+}
+
+.creator {
+
+}
+
