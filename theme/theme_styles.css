@@ -32,7 +32,7 @@ div#mainWrapper {
 */
 
 header#top {
-
+	border-bottom: 0.3em solid #FF9E36;
 }
 
 h1#logo {
@@ -46,7 +46,7 @@ h1#logo {
 }
 
 nav#mainMenu {
-	border-bottom: 0.3em solid #ccc;
+	
 }
 
 ul#links {

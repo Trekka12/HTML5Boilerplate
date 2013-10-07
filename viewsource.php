@@ -20,11 +20,11 @@ $style = $style . <<<EOD
 
 header h1 {
 	font-family: 'Open Sans', Arial, sans-serif;
-	color: #fff;
+	color: #FF9E36;
 }
 
 header p {
-	color: #555;
+	color: #aaa;
 }
 
 code {
