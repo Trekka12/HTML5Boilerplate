@@ -3,6 +3,12 @@
 //Set error reporting status
 error_reporting(-1);
 
+// Below code borrowed from mos example site
+// Change this to __DIR__ whenever PHP5.3 is supported on production environment
+if(!defined('__DIR__')) {
+  define('__DIR__', dirname(__FILE__));
+}
+
 //Generate main menu alternatives
 function generateMenu($pageID)
 {

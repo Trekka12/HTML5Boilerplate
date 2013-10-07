@@ -8,8 +8,10 @@ $currentURL = getCurrentURL();
 $pageTitle = "Källkodsvisnings verktyg för min sida";
 $page_Meta_Desc = "Denna sida innehåller ett källkodsvisnings verktyg.";
 
+$sourceBasedir = __DIR__;
+$sourceNoEcho = TRUE;
 //Include the source-code investigative script
-include('source.php');
+include(__DIR__ . '/source.php');
 
 //CSS Styles for this page uniquely
 $style = $sourceStyle;
