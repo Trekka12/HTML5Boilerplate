@@ -44,8 +44,8 @@ div.container {
 	font-size: 1.4em;
 }
 
-div.code code {
-	font-size: 1em;
+div.code code, div.rows code {
+	font-size: 1.1em;
 	font-family: monospace;
 
 }
