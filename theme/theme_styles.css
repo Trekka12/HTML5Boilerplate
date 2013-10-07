@@ -15,7 +15,7 @@
 
 body {
 	font-size: 10px;
-	background-image: url("img/patternBG.jpg");
+	background-image: url("../img/patternBG.jpg");
 }
 
 div#mainWrapper {

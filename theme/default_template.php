@@ -32,7 +32,7 @@
             <header id="top">
                 <h1 id="logo">PHPMVC @ BTH, <span class="detail creator">av: Trekka12 [Trekka12@cyberfox.se]</span></h1>
 
-                <?php generateMenu(); ?>
+                <?php generateMenu($pageID); ?>
 
             </header>
 

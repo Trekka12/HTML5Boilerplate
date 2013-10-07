@@ -4,7 +4,7 @@
 error_reporting(-1);
 
 //Generate main menu alternatives
-function generateMenu()
+function generateMenu($pageID)
 {
 	if($pageID == "presentation")
 	{
