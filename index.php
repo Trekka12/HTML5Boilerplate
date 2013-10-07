@@ -17,7 +17,7 @@ section#content h1 {
 }
 
 section#content p {
-	font-size: 1.4em;
+	font-size: 12px;
 	color: #ccc;
 	line-height: 1.6em;
 	font-family:  'Open Sans', Arial, sans-serif;
