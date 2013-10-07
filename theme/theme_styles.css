@@ -86,6 +86,7 @@ span#visited {
 
 section#content {
 	border-bottom: 0.3em solid #ccc;
+	font-size: 12px;
 }
 
 /*	
@@ -99,8 +100,8 @@ footer#bottom {
 }
 
 footer#bottom p {
-	color: #888;
-	line-height: 1.8em;
+	color: #ccc;
+	line-height: 2.4em;
 	font-size: 1.2em;
 	font-family: Arial, sans-serif;
 	margin-bottom: 0;
