@@ -46,7 +46,7 @@ div.container {
 
 div.code code, div.rows code {
 	font-size: 1.1em;
-	font-family: monospace;
+	font-family: 'Open Sans', monospace;
 
 }
 
